@@ -21,13 +21,12 @@ Sou um desenvolvedor apaixonado por criar experiências web incríveis com JavaS
 
 ## 📊 Estatísticas do GitHub
 
-![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=Vmns52&show_icons=true&theme=radical)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
 
-- **Portfólio:** [seuportfolio.com](https://seuportfolio.com)
 - **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/vitor-manoel-77b006222/)
 - **Email:** vmns52@gmail.com
 <!--
