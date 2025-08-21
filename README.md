@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Front-end | Entusiasta de JavaScript & CSS
 
-[![Seguidores](https://img.shields.io/github/followers/seu-usuario?style=social)](https://github.com/seu-usuario)
+[![Seguidores](https://img.shields.io/github/followers/Vmns52?style=social)](https://github.com/seu-usuario)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vitor-manoel-77b006222/)
 
 ---
