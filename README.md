@@ -1,4 +1,4 @@
-![Programando](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
+#Vitor Manoel
 
 ### Desenvolvedor Front-end | Entusiasta de JavaScript & CSS
 
