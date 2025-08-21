@@ -23,7 +23,7 @@ Sou um desenvolvedor apaixonado por criar experiências web incríveis com JavaS
 
 ![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=Vmns52&show_icons=true&theme=radical)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Vmns52&layout=compact&theme=radical)
 
 ## 📫 Como me encontrar
 
