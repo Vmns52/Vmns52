@@ -1,4 +1,4 @@
-## Hi there 👋
+![Programando](https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif)
 
 ### Desenvolvedor Front-end | Entusiasta de JavaScript & CSS
 
