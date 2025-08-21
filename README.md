@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### Desenvolvedor Front-end | JavaScript & CSS Enthusiast
+
+[![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)](https://github.com/seu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 <!--
 **Vmns52/Vmns52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
