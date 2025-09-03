@@ -27,7 +27,7 @@ Sou um desenvolvedor apaixonado por criar experiências web incríveis com JavaS
 
 ## 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/vitor-manoel-77b006222/](https://linkedin.com/in/vitor-manoel-77b006222/)
+- **LinkedIn:** [linkedin.com/in/vitor-manoel](https://linkedin.com/in/vitor-manoel-77b006222/)
 - **Email:** vmns52@gmail.com
 <!--
 **Vmns52/Vmns52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
